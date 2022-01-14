@@ -3,7 +3,8 @@
 ## Step 1: Installing VSCode
   1. Using this link, https://code.visualstudio.com/ it will direct you to the website where you can download visual studio code.
   2. After downloading it, you can then open VSCode
-  ![alt text](Installing VSCode.png)
+ 
+  ![alt text](pic.png)
 
 ## Step 2: Remotely Connecting
   1. Then you will download GitHub Desktop in order to connect it with VSCode with the following link: https://desktop.github.com/
@@ -19,4 +20,4 @@
 ## Step 6: Optimizing Remote Running
 
 
-![alt text](pic.png)
+![alt text](Installing VSCode.png)

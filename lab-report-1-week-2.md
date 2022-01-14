@@ -6,6 +6,9 @@
   ![alt text](Installing VSCode.png)
 
 ## Step 2: Remotely Connecting
+  1. Then you will download GitHub Desktop in order to connect it with VSCode with the following link: https://desktop.github.com/
+  2. Next you will open GitHub Desktop and sign in with your account
+  3. After you will open VSCode though GitHub Desktop
 
 ## Step 3: Trying Some Commands
 

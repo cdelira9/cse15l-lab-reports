@@ -28,6 +28,18 @@
 
 ## Step 5: Setting an SSH Key
 
+  1. In the terminal you will now type ssh-keygen then when asked to enter file you will simply hit enter
+  2. Next it will ask for a passphrase which you can type anything you'd like just make sure to rember it as it will then ask for it again.
+
+  ![alt text](SSHKey.png)
+
 ## Step 6: Optimizing Remote Running
+
+  1. There are varios ways to make remote running more easier like in the picture below shows an example where writing a command in quotes will help directly running it.
+
+  ![alt text](Lastkey.png)
+
+  2. Other ways that can make running easier is using semicolons to separate and run different commands at the same time. Also usign the up-arrow can facilitate using the last command in a more efficient way.
+
 
 

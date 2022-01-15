@@ -37,7 +37,7 @@
 
   1. There are varios ways to make remote running more easier like in the picture below shows an example where writing a command in quotes will help directly running it.
 
-  ![alt text](Lastkey.png)
+  ![alt text](LastStep.png)
 
   2. Other ways that can make running easier is using semicolons to separate and run different commands at the same time. Also usign the up-arrow can facilitate using the last command in a more efficient way.
 

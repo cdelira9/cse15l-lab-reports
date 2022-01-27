@@ -40,6 +40,8 @@
   ![alt text](LastStep.png)
 
   2. Other ways that can make running easier is using semicolons to separate and run different commands at the same time. Also usign the up-arrow can facilitate using the last command in a more efficient way.
+  3. Extra Notes:
+   When running the test as seen in the picture above I was able to run the test in 10 seconds. Using the up key arrow helped since I only had      to use 2 keystrokes to get the test instead of typing it all. The rest of the seconds were used typing out the password but time was saved      using the up key. In total I only used 16 keystrokes since the password has a lot of characters.
 
 
 

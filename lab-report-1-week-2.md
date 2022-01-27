@@ -7,7 +7,7 @@
   ![alt text](VSCode.png)
 
 ## Step 2: Remotely Connecting
-  1. Then you will look up your course-specific account using the link:[Git Hub Desktop](https://sdacs.ucsd.edu/~icc/index.php)
+  1. Then you will look up your course-specific account using the link:[Account LookUp](https://sdacs.ucsd.edu/~icc/index.php)
   2. Next you will type ssh followed by your account which will connect your terminal to a computer in the CSE basement.
 
   ![alt text](RemoteConnecting.png)

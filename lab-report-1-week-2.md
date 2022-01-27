@@ -1,13 +1,13 @@
 # Week 2 Lab Report: How to Log into course-specific account on ieng6
 
 ## Step 1: Installing VSCode
-  1. Using this link, https://code.visualstudio.com/ it will direct you to the website where you can download visual studio code.
+  1. Using this link, [](https://code.visualstudio.com/) it will direct you to the website where you can download visual studio code.
   2. After downloading it, you can then open VSCode
  
   ![alt text](VSCode.png)
 
 ## Step 2: Remotely Connecting
-  1. Then you will look up your course-specific account using the link:https://sdacs.ucsd.edu/~icc/index.php
+  1. Then you will look up your course-specific account using the link:[](https://sdacs.ucsd.edu/~icc/index.php)
   2. Next you will type ssh followed by your account which will connect your terminal to a computer in the CSE basement.
 
   ![alt text](RemoteConnecting.png)

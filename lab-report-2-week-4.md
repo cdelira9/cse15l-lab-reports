@@ -3,7 +3,7 @@
 ## Change 1
 
 ### Screenshot of Code Change
-![alt text](Change_1.png)
+![alt text](Change.png)
 
 ### Link to Test File
 
@@ -14,7 +14,7 @@
 ## Change 2
 
 ### Screenshot of Code Change
-![alt text](Change_2.png)
+![alt text](Change_1.png)
 
 ### Link to Test File
 

@@ -3,7 +3,7 @@
 ## Change 1
 
 ### Screenshot of Code Change
-![alt text](Bug1.png)
+![alt text](Bug.png)
 
 ### Link to Test File
 
@@ -11,7 +11,7 @@
 
 ### Symptom
 
-![alt text](Symptom.png)
+![alt text](Bug1.png)
 
 ### Write-Up
 

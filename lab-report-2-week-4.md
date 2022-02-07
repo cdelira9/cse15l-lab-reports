@@ -3,19 +3,19 @@
 ## Change 1
 
 ### Screenshot of Code Change
-![alt text](Change.png)
+![alt text](Bug1.png)
 
 ### Link to Test File
 
-[First Test Link](https://github.com/cdelira9/markdown-parse/commit/1a39a9c4d2f28c908e8fc4f7cb9584b05b06bb15)
+[First Test Link](https://github.com/cdelira9/markdown-parse/commit/0436214d13bf573c3b27f3551d9e76db8b3402e0)
 
 ### Symptom
 
-![alt text](ForFirst.png)
+![alt text](Symptom.png)
 
 ### Write-Up
 
-The relationship between the bug, symptom, and input is that they when the code was written and then tested with the written test files it did not pass all the tests but instead only passed half of the tests. By seeing what tests where not passed we can then see where the code went wrong and correct in order for all tests to pass.
+The relationship between the bug, symptom, and input is that they when the code was written and then tested with the written test files it created an error in which nothing was returned and there was a necessary exit from the terminal. This is related to how the code was written since the original code was not written correctly and created a loop instead.
 
 ## Change 2
 

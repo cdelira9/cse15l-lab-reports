@@ -1,8 +1,10 @@
 # Week 8 Lab Report
 
 ## Link to My Markdown-Parse Repository
+[My Markdown-Parse](https://github.com/cdelira9/markdown-parse)
 
 ## Link to Markdown-Parse Repository Reviewed
+[Markdown-Parse Reviewed](https://github.com/Obarquinho/markdown-parse)
 
 ## Test 1
 

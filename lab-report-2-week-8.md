@@ -20,6 +20,7 @@ Reviewd MarkdownParse
 ![Test](OtherTest1.png)
 
 3. Results: 
+
 My MarkdownParse: Tests did not pass
 ![Test](MyFailure1.png)
 
@@ -40,6 +41,7 @@ Reviewd MarkdownParse
 ![Test](OtherTest2.png)
 
 3. Results: 
+
 My MarkdownParse: Tests did not pass
 ![Test](MyFailure2.png)
 
@@ -58,7 +60,8 @@ My MarkdownParse
 Reviewd MarkdownParse
 ![Test](OtherTest3.png)
 
-3. Results: 
+3. Results:
+ 
 My MarkdownParse: Tests did not pass
 ![Test](MyFailure3.png)
 

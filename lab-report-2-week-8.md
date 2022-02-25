@@ -11,14 +11,56 @@
 1. VS Code Preview
 ![Preview](Preview1.png)
 
+2. Tests
+My MarkdownParse
+![Test](MyTest1.png)
+
+Reviewd MarkdownParse
+![Test](OtherTest1.png)
+
+3. Results: 
+My MarkdownParse: Tests did not pass
+![Test](MyFailure1.png)
+
+Reviewed MarkdownParse: Tests did not pass
+![Test](OtherFailure1.png)
+
 
 ## Test 2
 1. VS Code Preview
 ![Preview](Preview2.png)
 
+2. Tests
+My MarkdownParse
+![Test](MyTest2.png)
+
+Reviewd MarkdownParse
+![Test](OtherTest2.png)
+
+3. Results: 
+My MarkdownParse: Tests did not pass
+![Test](MyFailure2.png)
+
+Reviewed MarkdownParse: Tests did not pass
+![Test](OtherFailure2.png)
+
 ## Test 3
 1. VS Code Preview
 ![Preview](Preview3.png)
+
+2. Tests
+My MarkdownParse
+![Test](MyTest3.png)
+
+Reviewd MarkdownParse
+![Test](OtherTest3.png)
+
+3. Results: 
+My MarkdownParse: Tests did not pass
+![Test](MyFailure3.png)
+
+Reviewed MarkdownParse: Tests did not pass
+![Test](OtherFailure3.png)
 
 ## Write-Up
 

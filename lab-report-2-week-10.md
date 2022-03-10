@@ -28,4 +28,10 @@ Test 41:
 
   Output: [url &quot;tit&quot;]
   
-  The output foe this test should be [] since the url that is printed out contains a space and an ampersand which should not be allowed in a url link. The             MarkdownParse file fails to check for these specific characters that are unsafe or not allowed and therefore simply is only checking for parantheses and brackets   without checking for these special characters.
+  The output for this test should be [] since the url that is printed out contains a space and an ampersand which should not be allowed in a url link. The             MarkdownParse file fails to check for these specific characters that are unsafe or not allowed and therefore simply is only checking for parantheses and brackets   without checking for these special characters.
+  
+ Test 500:
+ 
+ Output: [#fragment, http://example.com#fragment, http://example.com?foo=3#frag]
+ 
+ The output for this test should not include the #fragment since it is not a valid link. The bug of the code is that it lacks in checking for anything else other then parantheses and brackets. After finding the bracket, the code should check if the provided links are actual url and could check this by having a set or url requirements that provide set of characters it can not have but also check if has the provided .com that is missing in the first segment.
